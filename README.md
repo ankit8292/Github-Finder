@@ -1,5 +1,5 @@
 In this project user can find the github user and this project is made in ReactJs.
-It is deployed on netlify[link](https://unruffled-northcutt-678a7c.netlify.com).
+It is deployed on netlify[(link)](https://unruffled-northcutt-678a7c.netlify.com).
 
 ## Available Scripts
 
